@@ -6,7 +6,7 @@ const App = () => (
     <div>
         <div className="app">
             <img src={logo} className="logo rotate"/>
-            <h1>Welcome to React</h1>
+            <h1>Welcome MTG DECK BUILDER</h1>
         </div>
     </div>
 );

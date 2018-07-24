@@ -1,18 +1,18 @@
 {
-  "name": "react_starter",
+  "name": "MTG_DeckBuilder",
   "version": "1.0.0",
-  "description": "Starting setup for react redux project",
+  "description": "MTG_DeckBuilder",
   "main": "index.js",
   "scripts": {
     "start": "node dev_server.js",
     "bundle": "webpack --config webpack.prod.js --progress",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Scott Bowler",
+  "author": "Philips and Peter Nguyen",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Learning-Fuze/react_starter.git"
+    "url": "https://github.com/P-nguyen/MTG_metaNotes.git"
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
